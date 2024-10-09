@@ -115,7 +115,7 @@ body {
     background-color: gray;
     border-color: gray;
     margin: 10px;
-    
+    cursor: pointer;
     border-radius: 10px;
     width: 160px;
     height: 30px;
@@ -145,7 +145,7 @@ body {
     border-radius: 10px;
     width: 150px;
     height: 25px;
-   
+   cursor: pointer;
    
 }
 .remove-item {
