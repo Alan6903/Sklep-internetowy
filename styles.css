@@ -172,10 +172,12 @@ body {
 .img {
   border-radius: 15px;
   transition: all .5s;
+  cursor: pointer;
 
 }
 .img:hover {
     transform:scale(2)
+    cursor: pointer;
 }
 .img-modal {
     padding-top:  30px;
